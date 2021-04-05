@@ -74,17 +74,17 @@ h1{
 }
 
 .address{
-    width: 70%;
+    width: 75%;
     
     text-align: start;
     padding-top: 10px;
 }
 h3{
-    width: 30%;
-    background-color: red;
+    width: 180px;
+    background-color: rgb(0, 255, 42);
     padding-top: 10px;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .fa-chevron-right{
