@@ -50,7 +50,8 @@ h1{
     color: white;
 }
 .para-2{
- 
+    width: 100%;
+    text-align: center;
     margin-top: 30px;
     margin-right:auto ;
     color: rgb(233, 223, 223);
@@ -73,13 +74,13 @@ h1{
 }
 
 .address{
-    width: 6s0%;
+    width: 70%;
     
     text-align: start;
     padding-top: 10px;
 }
 h3{
-    width: 40%;
+    width: 30%;
     background-color: red;
     padding-top: 10px;
     color: white;
